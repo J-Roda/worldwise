@@ -2,7 +2,6 @@ import CityItem from "./CityItem";
 import styles from "./CityList.module.css";
 import Spinner from "./Spinner";
 import Message from "./Message";
-import { useState } from "react";
 import { useCities } from "../context/CitiesContext";
 
 const CityList = () => {

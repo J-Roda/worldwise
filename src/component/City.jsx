@@ -1,4 +1,4 @@
-import { useNavigate, useParams, useSearchParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import styles from "./City.module.css";
 import Button from "./Button";
 import { useCities } from "../context/CitiesContext";
@@ -20,7 +20,7 @@ function City() {
 
     useEffect(() => {
         getCity(id);
-    }, [id]);
+    }, [id, getCity]);
 
     const { cityName, emoji, date, notes } = currentCity;
 

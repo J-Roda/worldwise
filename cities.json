@@ -47,42 +47,6 @@
         "lng": "77.94823314906125"
       },
       "id": 98443201
-    },
-    {
-      "cityName": "Gourma Rharous",
-      "country": "Mali",
-      "emoji": "🇲🇱",
-      "date": "2023-10-09T06:08:14.273Z",
-      "notes": "",
-      "position": {
-        "lat": "15.716539898113485",
-        "lng": "-2.47068276327783"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Hadjera Zerga",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-10-09T06:08:39.613Z",
-      "notes": "qweq",
-      "position": {
-        "lat": "35.873024259160914",
-        "lng": "3.819964949768689"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Afif",
-      "country": "Saudi Arabia",
-      "emoji": "🇸🇦",
-      "date": "2023-10-09T06:22:52.771Z",
-      "notes": "qeqw",
-      "position": {
-        "lat": "23.166691905921528",
-        "lng": "42.87641577741426"
-      },
-      "id": 98443204
     }
   ]
 }
